@@ -7,24 +7,9 @@
 
 - <b>Markdown to HTML Parser - Kotlin</b>
   - [Kotlin Markdown Parser](https://github.com/logancamp/MarkdownToHTMLLab)
-
-- <b>Binary Tree - Java</b>
-  - [Tree]()
  
-- <b>Merge Sort - Java</b>
-  - [MergeSort]()
- 
-- <b>Bubble Sort - Java</b>
-  - [BubbleSort]()
- 
-- <b>Insertion Sort - Java</b>
-  - [InsertionSort]()
-
-- <b>Factorial Recursion - Java</b>
-  - [Factorial]()
- 
-- <b>Linked List - Java</b>
-  - [LinkedList]()
+- <b>Insertion, Selection, and Bubble Sort - Java</b>
+  - [Sorts]()
 
 <h2>🤖 Intelligent Systems Projects:</h2>
 
