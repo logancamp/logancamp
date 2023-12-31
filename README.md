@@ -35,7 +35,7 @@
   - [Snake](https://github.com/logancamp/Snake/tree/main)
 
 - <b>TicTacToe - Java</b>
-  - [TicTacToe](https://github.com/logancamp/Snake/tree/main)
+  - [TicTacToe](https://github.com/logancamp/TicTacToe)
  
 <h2>🤔 Other Projects:</h2>
 
