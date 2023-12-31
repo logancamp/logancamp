@@ -17,7 +17,7 @@
   - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
  
 - <b>Stable Diffusion GUI - Python</b>
-  - [StableDiffusion]()
+  - [StableDiffusion](https://github.com/logancamp/StableDiffusionGui/tree/main)
 
 <h2>👨‍💻 Front End Development Projects:</h2>
 
