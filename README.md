@@ -5,23 +5,14 @@
  
 <h2>💻 OOP Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/logancamp/MarkdownToHTMLLab)
+- <b>Markdown to HTML Parser - Kotlin</b>
+  - [Kotlin Markdown Parser](https://github.com/logancamp/MarkdownToHTMLLab)
 
 <h2>🤖 Intelligent Systems Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
 <h2>👨‍💻 Front End Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
 <h2>👾 Game Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 
