@@ -8,8 +8,8 @@
 - <b>Markdown to HTML Parser - Kotlin</b>
   - [Kotlin Markdown Parser](https://github.com/logancamp/MarkdownToHTMLLab)
  
-- <b>Insertion, Selection, and Bubble Sort - Java</b>
-  - [Sorts]()
+- <b>Insertion, Selection, and Bubble Sort Demo - Java</b>
+  - [Sorts](https://github.com/logancamp/SortsDemonstration)
 
 <h2>🤖 Intelligent Systems Projects:</h2>
 
