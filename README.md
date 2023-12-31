@@ -16,6 +16,7 @@
 <h2>👨‍💻 Front End Development Projects:</h2>
 
 <h2>👾 Game Development Projects:</h2>
+
 - <b>Flappy Bird - Python Arcade</b>
   - [Flappy Bird](https://github.com/logancamp/FlappyBirdPy/tree/main)
 
