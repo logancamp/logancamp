@@ -58,7 +58,7 @@
 <h2>🤔 Other Projects:</h2>
 
 - <b>Simulated CPU - Python</b>
-  - [CPU]()
+  - [CPU](https://github.com/logancamp/SimulatedCPU)
  
 - <b>File Path Converter - Python</b>
   - [UnixToWindows]()
