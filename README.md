@@ -28,6 +28,11 @@
 
 - <b>TicTacToe - Java</b>
   - [TicTacToe](https://github.com/logancamp/Snake/tree/main)
+ 
+<h2>🤔 Other Projects:</h2>
+
+- <b>Spam Prank - Python</b>
+  - [Spam]()
 
 <!--
 **logancamp/logancamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
