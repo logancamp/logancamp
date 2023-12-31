@@ -20,6 +20,9 @@
 - <b>Flappy Bird - Python Arcade</b>
   - [Flappy Bird](https://github.com/logancamp/FlappyBirdPy/tree/main)
 
+- <b>Super Python Mario - Python Arcade</b>
+  - [Mario](https://github.com/logancamp/SuperPythonMario/tree/main)
+
 <!--
 **logancamp/logancamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
