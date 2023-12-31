@@ -61,7 +61,7 @@
   - [UnixToWindows](https://github.com/logancamp/FilePathConverter)
 
 - <b>Factorial Recursion - Java</b>
-  - [Factorial]()
+  - [Factorial](https://github.com/logancamp/FactorialRecursion)
  
 - <b>Spam Prank - Python</b>
   - [Spam](https://github.com/logancamp/SpamTextPrank)
