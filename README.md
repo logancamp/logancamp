@@ -33,7 +33,7 @@
 
 [<img align="left" alt="LoganCamp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/logan-camp-9284b6218
+[linkedin]: www.linkedin.com/in/loganacamp
 [instagram]: https://www.instagram.com/logan___camp/
 
 <!--
