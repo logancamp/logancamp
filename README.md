@@ -10,6 +10,9 @@
 
 <h2>🤖 Intelligent Systems Projects:</h2>
 
+- <b>AI Mario Agent, 64 bit mario - Python</b>
+  - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
+
 <h2>👨‍💻 Front End Development Projects:</h2>
 
 <h2>👾 Game Development Projects:</h2>
