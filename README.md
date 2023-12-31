@@ -2,16 +2,11 @@
 <p>Baldwin Wallace University: December, 2024</p>
 <p>Computer Science and Financial Economics</p>
 
-
-<h2>💾 General Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
-<h2>💻 Software Development Projects:</h2>
+<h2>💻 OOP Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/logancamp/MarkdownToHTMLLab)
 
 <h2>🤖 Intelligent Systems Projects:</h2>
 
