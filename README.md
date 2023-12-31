@@ -1,5 +1,6 @@
 <h1>Hi, I'm Logan!</h1>
 <p>Baldwin Wallace University: December, 2024</p>
+<p>Computer Science and Financial Economics</p>
 
 
 <h2>💾 General Development Projects:</h2>
