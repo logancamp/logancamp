@@ -31,9 +31,6 @@
 - <b>AI Mario Agent, 64 bit mario - Python</b>
   - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
  
-- <b>Missionaries Vs Cannibals - Python</b>
-  - [Cannibals]()
- 
 - <b>Stable Diffusion GUI - Python</b>
   - [StableDiffusion]()
 
