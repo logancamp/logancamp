@@ -67,7 +67,7 @@
   - [Factorial]()
  
 - <b>Spam Prank - Python</b>
-  - [Spam]()
+  - [Spam](https://github.com/logancamp/SpamTextPrank)
 
 <!--
 **logancamp/logancamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
