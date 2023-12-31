@@ -20,14 +20,6 @@
 - <b>Flappy Bird - Python Arcade</b>
   - [Flappy Bird](https://github.com/logancamp/FlappyBirdPy/tree/main)
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="LoganCamp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/loganacamp
-[instagram]: https://www.instagram.com/logan___camp/
-
 <!--
 **logancamp/logancamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
