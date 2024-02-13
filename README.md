@@ -10,6 +10,9 @@
  
 - <b>Insertion, Selection, and Bubble Sort Demo - Java</b>
   - [Sorts](https://github.com/logancamp/SortsDemonstration)
+ 
+- <b>Simulated CPU - Python</b>
+  - [CPU](https://github.com/logancamp/SimulatedCPU)
 
 <h2>🤖 Intelligent Systems Projects:</h2>
 
@@ -38,9 +41,6 @@
   - [TicTacToe](https://github.com/logancamp/TicTacToe)
  
 <h2>🤔 Other Projects:</h2>
-
-- <b>Simulated CPU - Python</b>
-  - [CPU](https://github.com/logancamp/SimulatedCPU)
  
 - <b>File Path Converter - Python</b>
   - [UnixToWindows](https://github.com/logancamp/FilePathConverter)
