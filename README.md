@@ -1,5 +1,5 @@
 <h1>Hi, I'm Logan!</h1>
-<p>Baldwin Wallace University -- Magna Cum Lade</p>
+<p>Baldwin Wallace University | Magna Cum Lade</p>
 <p>Computer Science and Financial Economics</p>
 <h2></h2>
 
