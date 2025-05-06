@@ -3,6 +3,31 @@
 <p>Computer Science and Financial Economics</p>
 [Certifications](https://github.com/logancamp/Certification)
 
+
+
+<h2>👨‍💻 Software Engineering Projects:</h2>
+- <b>Financial Portfolio Android App - Kotlin</b>
+  - [Portfolio App]()
+
+- <b>Car Rental Winforms App - C#</b>
+  - [Car Rental App]()
+
+<h2>🤖 Intelligent Systems Projects:</h2>
+- <b>PyTorch Notes - Python</b>
+  - [Notes]()
+  
+- <b>Pokemon CNN Classifier - Python</b>
+  - [Poke CNN]()
+ 
+- <b>Video clustering - Python</b>
+  - [Clustering]()
+
+- <b>AI Mario Agent, 64 bit mario - Python</b>
+  - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
+ 
+- <b>Stable Diffusion GUI - Python</b>
+  - [StableDiffusion](https://github.com/logancamp/StableDiffusionGui/tree/main)
+ 
 <h2>💻 OOP Projects:</h2>
 
 - <b>Markdown to HTML Parser - Kotlin</b>
@@ -13,14 +38,6 @@
  
 - <b>Simulated CPU - Python</b>
   - [CPU](https://github.com/logancamp/SimulatedCPU)
-
-<h2>🤖 Intelligent Systems Projects:</h2>
-
-- <b>AI Mario Agent, 64 bit mario - Python</b>
-  - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
- 
-- <b>Stable Diffusion GUI - Python</b>
-  - [StableDiffusion](https://github.com/logancamp/StableDiffusionGui/tree/main)
 
 <h2>👾 Game Development Projects:</h2>
 
@@ -37,6 +54,9 @@
   - [TicTacToe](https://github.com/logancamp/TicTacToe)
  
 <h2>🤔 Other Projects:</h2>
+
+- <b>Algorithm Demos - Python</b>
+  - [Algorithms]()
  
 - <b>File Path Converter - Python</b>
   - [UnixToWindows](https://github.com/logancamp/FilePathConverter)
