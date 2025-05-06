@@ -1,7 +1,7 @@
 <h1>Hi, I'm Logan!</h1>
 <p>Baldwin Wallace University -- Magna Cum Lade</p>
-<p>Computer Science and Financial Economics\n</p>
-
+<p>Computer Science and Financial Economics</p>
+........................................................................................
 
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
