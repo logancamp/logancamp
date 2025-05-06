@@ -7,20 +7,20 @@
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 - <b>Financial Portfolio Android App - Kotlin</b>
-  - [Portfolio App]()
+  - [Portfolio App](https://github.com/logancamp/CSC330_PortfolioAnalysisApp)
 
 - <b>Car Rental Winforms App - C#</b>
-  - [Car Rental App]()
+  - [Car Rental App](https://github.com/logancamp/CarRentalApp)
 
 <h2>🤖 Intelligent Systems Projects:</h2>
 - <b>PyTorch Notes - Python</b>
-  - [Notes]()
+  - [Notes](https://github.com/logancamp/PyTorch-Notes)
   
 - <b>Pokemon CNN Classifier - Python</b>
-  - [Poke CNN]()
- 
+  - [Poke CNN](https://github.com/logancamp/Pokemon-ML-Classification)
+
 - <b>Video clustering - Python</b>
-  - [Clustering]()
+  - [Clustering](https://github.com/logancamp/Video-Clustering)
 
 - <b>AI Mario Agent, 64 bit mario - Python</b>
   - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
@@ -56,7 +56,7 @@
 <h2>🤔 Other Projects:</h2>
 
 - <b>Algorithm Demos - Python</b>
-  - [Algorithms]()
+  - [Algorithms](https://github.com/logancamp/Algorithm-Demos)
  
 - <b>File Path Converter - Python</b>
   - [UnixToWindows](https://github.com/logancamp/FilePathConverter)
