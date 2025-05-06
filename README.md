@@ -6,6 +6,7 @@
 
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
+
 - <b>Financial Portfolio Android App - Kotlin</b>
   - [Portfolio App](https://github.com/logancamp/CSC330_PortfolioAnalysisApp)
 
@@ -13,6 +14,7 @@
   - [Car Rental App](https://github.com/logancamp/CarRentalApp)
 
 <h2>🤖 Intelligent Systems Projects:</h2>
+
 - <b>PyTorch Notes - Python</b>
   - [Notes](https://github.com/logancamp/PyTorch-Notes)
   
