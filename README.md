@@ -64,14 +64,10 @@
 - <b>Algorithm Demos - Python</b>
   - [Algorithms](https://github.com/logancamp/Algorithm-Demos)
  
-- <b>File Path Converter - Python</b>
+- <b>Other - Python</b>
   - [UnixToWindows](https://github.com/logancamp/FilePathConverter)
-
-- <b>Factorial Recursion - Java</b>
   - [Factorial](https://github.com/logancamp/FactorialRecursion)
- 
-- <b>Spam Prank - Python</b>
-  - [Spam](https://github.com/logancamp/SpamTextPrank)
+  - [Old Spam Prank](https://github.com/logancamp/SpamTextPrank)
 
 <!--
 **logancamp/logancamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
