@@ -28,7 +28,7 @@
 - <b>Stable Diffusion GUI - Python</b>
   - [StableDiffusion](https://github.com/logancamp/StableDiffusionGui/tree/main)
  
-<h2>💻 OOP Projects:</h2>
+<h2>💻 OOP + Algorithms Projects:</h2>
 
 - <b>Markdown to HTML Parser - Kotlin</b>
   - [Kotlin Markdown Parser](https://github.com/logancamp/MarkdownToHTMLLab)
@@ -38,6 +38,9 @@
  
 - <b>Simulated CPU - Python</b>
   - [CPU](https://github.com/logancamp/SimulatedCPU)
+
+- <b>Algorithm Demos - Python</b>
+  - [Algorithms](https://github.com/logancamp/Algorithm-Demos)
 
 <h2>👾 Game Development Projects:</h2>
 
@@ -60,9 +63,6 @@
   - [TicTacToe](https://github.com/logancamp/TicTacToe)
  
 <h2>🤔 Other Projects:</h2>
-
-- <b>Algorithm Demos - Python</b>
-  - [Algorithms](https://github.com/logancamp/Algorithm-Demos)
  
 - <b>Other - Python</b>
   - [UnixToWindows](https://github.com/logancamp/FilePathConverter)
