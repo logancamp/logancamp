@@ -42,9 +42,9 @@
 <h2>👾 Game Development Projects:</h2>
 
 - <b>Snowboard Mayhen - Unity 2D, C#</b>
-  - [Snowboarder]()
+  - [Snowboarder](https://github.com/logancamp/DeliveryDriver)
 
- - <b>Delivery Driver - Unity 2D, C#</b>
+- <b>Delivery Driver - Unity 2D, C#</b>
   - [Driver](https://github.com/logancamp/DeliveryDriver)
 
 - <b>Flappy Bird - Python Arcade</b>
