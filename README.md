@@ -28,20 +28,6 @@
 - <b>Stable Diffusion GUI - Python</b>
   - [StableDiffusion](https://github.com/logancamp/StableDiffusionGui/tree/main)
  
-<h2>💻 OOP + Algorithms Projects:</h2>
-
-- <b>Markdown to HTML Parser - Kotlin</b>
-  - [Kotlin Markdown Parser](https://github.com/logancamp/MarkdownToHTMLLab)
- 
-- <b>Insertion, Selection, and Bubble Sort Demo - Java</b>
-  - [Sorts](https://github.com/logancamp/SortsDemonstration)
- 
-- <b>Simulated CPU - Python</b>
-  - [CPU](https://github.com/logancamp/SimulatedCPU)
-
-- <b>Algorithm Demos - Python</b>
-  - [Algorithms](https://github.com/logancamp/Algorithm-Demos)
-
 <h2>👾 Game Development Projects:</h2>
 
 - <b>Snowboard Mayhem - Unity 2D, C#</b>
@@ -61,6 +47,20 @@
 
 - <b>TicTacToe - Java</b>
   - [TicTacToe](https://github.com/logancamp/TicTacToe)
+ 
+<h2>💻 OOP + Algorithms Projects:</h2>
+
+- <b>Markdown to HTML Parser - Kotlin</b>
+  - [Kotlin Markdown Parser](https://github.com/logancamp/MarkdownToHTMLLab)
+ 
+- <b>Insertion, Selection, and Bubble Sort Demo - Java</b>
+  - [Sorts](https://github.com/logancamp/SortsDemonstration)
+ 
+- <b>Simulated CPU - Python</b>
+  - [CPU](https://github.com/logancamp/SimulatedCPU)
+
+- <b>Algorithm Demos - Python</b>
+  - [Algorithms](https://github.com/logancamp/Algorithm-Demos)
  
 <h2>🤔 Other Projects:</h2>
  
