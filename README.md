@@ -1,8 +1,6 @@
 <h1>Hi, I'm Logan!</h1>
-<p>Baldwin Wallace University | Magna Cum Lade</p>
-<p>Computer Science and Financial Economics</p>
-<br>
-<p>Case Western Reserve University | Masters of CS in Artificial Intelligence, 2027</p>
+<p>Baldwin Wallace University | Bachelors of Science in CS and Financial Economics, Magna Cum Lade</p>
+<p>Case Western Reserve University | Masters of Science in CS in Artificial Intelligence, 2027</p>
 <h2></h2>
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
