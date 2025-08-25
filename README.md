@@ -11,11 +11,11 @@
 - <b>Pokemon CNN Classifier - Python</b>
   - [Poke CNN](https://github.com/logancamp/Pokemon-ML-Classification)
 
-- <b>Video Clustering - Python</b>
-  - [Clustering](https://github.com/logancamp/Video-Clustering)
-
 - <b>AI Mario Agent, 64 bit mario - Python</b>
   - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
+ 
+- <b>Video Clustering - Python</b>
+  - [Clustering](https://github.com/logancamp/Video-Clustering)
  
 - <b>Stable Diffusion GUI - Python</b>
   - [StableDiffusion](https://github.com/logancamp/StableDiffusionGui/tree/main)
