@@ -11,7 +11,7 @@
 - <b>Pokemon CNN Classifier - Python</b>
   - [Poke CNN](https://github.com/logancamp/Pokemon-ML-Classification)
 
-- <b>Video clustering - Python</b>
+- <b>Video Clustering - Python</b>
   - [Clustering](https://github.com/logancamp/Video-Clustering)
 
 - <b>AI Mario Agent, 64 bit mario - Python</b>
