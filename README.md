@@ -3,21 +3,6 @@
 <p>Case Western Reserve University | Masters of Science in CS in Artificial Intelligence</p>
 <h2></h2>
 
-<h2>👨‍💻 Software Engineering Projects:</h2>
-
-- <b>X Todo List App - Swift</b>
-  - [Todo List App](https://github.com/logancamp/)
-
-- <b>X Cookbook Webapp - HTML, CSS, JS</b>
-  - [Cookboook Site](https://github.com/logancamp/)
- 
-- <b>Financial Portfolio Android App - Kotlin</b>
-  - [Portfolio App](https://github.com/logancamp/CSC330_PortfolioAnalysisApp)
-
-- <b>Car Rental Winforms App - C#</b>
-  - [Car Rental App](https://github.com/logancamp/CarRentalApp)
-
-<br>
 <h2>🤖 Intelligent Systems Projects:</h2>
 
 - <b>PyTorch Notes - Python</b>
@@ -34,6 +19,21 @@
  
 - <b>Stable Diffusion GUI - Python</b>
   - [StableDiffusion](https://github.com/logancamp/StableDiffusionGui/tree/main)
+
+<br>
+<h2>👨‍💻 Software Engineering Projects:</h2>
+
+- <b>X Todo List App - Swift</b>
+  - [Todo List App](https://github.com/logancamp/)
+
+- <b>X Cookbook Webapp - HTML, CSS, JS</b>
+  - [Cookboook Site](https://github.com/logancamp/)
+ 
+- <b>Financial Portfolio Android App - Kotlin</b>
+  - [Portfolio App](https://github.com/logancamp/CSC330_PortfolioAnalysisApp)
+
+- <b>Car Rental Winforms App - C#</b>
+  - [Car Rental App](https://github.com/logancamp/CarRentalApp)
 
 <br>
 <h2>👾 Game Development Projects:</h2>
