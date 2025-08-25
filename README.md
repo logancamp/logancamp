@@ -5,6 +5,12 @@
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
+- <b>X Todo List App - Swift</b>
+  - [Todo List App](https://github.com/logancamp/)
+
+- <b>X Cookbook Webpage - HTML, CSS, JS</b>
+  - [Cookboook Site](https://github.com/logancamp/)
+ 
 - <b>Financial Portfolio Android App - Kotlin</b>
   - [Portfolio App](https://github.com/logancamp/CSC330_PortfolioAnalysisApp)
 
