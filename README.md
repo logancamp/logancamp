@@ -5,11 +5,17 @@
 
 <h2>🤖 Intelligent Systems Projects:</h2>
 
+- <b>Layerwise-LLM Hallucination Detection Research Paper - Python</b>
+  - [R-LLM](https://github.com/logancamp/LLM_Hallucination_Detection_Layer-Wise-Chair)
+
 - <b>PyTorch Notes - Python</b>
   - [Notes](https://github.com/logancamp/PyTorch-Notes)
   
 - <b>Pokemon CNN Classifier - Python</b>
   - [Poke CNN](https://github.com/logancamp/Pokemon-ML-Classification)
+ 
+- <b>MLB All Star Prediction - Python</b>
+  - [All Stars](https://github.com/logancamp/All-Star_Prediction_MLB)
 
 - <b>AI Mario Agent, 64 bit mario - Python</b>
   - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
