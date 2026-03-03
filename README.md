@@ -33,7 +33,7 @@
   - [Todo List App](https://github.com/logancamp/)
 
 - <b>X Cookbook Webapp - HTML, CSS, JS</b>
-  - [Cookboook Site]([https://github.com/logancamp/](https://github.com/logancamp/cookbook-site))
+  - [Cookboook Site](https://github.com/logancamp/cookbook-site)
  
 - <b>Financial Portfolio Android App - Kotlin</b>
   - [Portfolio App](https://github.com/logancamp/CSC330_PortfolioAnalysisApp)
