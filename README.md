@@ -25,6 +25,10 @@
  
 - <b>Stable Diffusion GUI - Python</b>
   - [StableDiffusion](https://github.com/logancamp/StableDiffusionGui/tree/main)
+ 
+- <b>Smart Villager Minecraft Mod - Kotlin</b>
+  - [StableDiffusion](https://github.com/logancamp/smart_villagers_minecraft-mod)
+ 
 
 <br>
 <h2>👨‍💻 Software Engineering Projects:</h2>
