@@ -27,7 +27,7 @@
   - [StableDiffusion](https://github.com/logancamp/StableDiffusionGui/tree/main)
  
 - <b>Smart Villager Minecraft Mod - Kotlin</b>
-  - [StableDiffusion](https://github.com/logancamp/smart_villagers_minecraft-mod)
+  - [SmartVillager](https://github.com/logancamp/smart_villagers_minecraft-mod)
  
 
 <br>
