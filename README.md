@@ -29,6 +29,9 @@
 
 - <b>Todo List App - Swift</b>
   - [Todo List App](...)
+ 
+- <b>End to End Encrypted Messanger - Java Spring</b>
+  - [Messanger](https://github.com/logancamp/encrypted-messanger)
 
 - <b>Cookbook Webapp - HTML, CSS, JS</b>
   - [Cookboook Site](https://github.com/logancamp/cookbook-site)
