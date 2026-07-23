@@ -27,10 +27,10 @@
 <br>
 <h2>👨‍💻 Software/Data Engineering Projects:</h2>
 
-- <b>X Todo List App - Swift</b>
-  - [Todo List App](https://github.com/logancamp/)
+- <b>Todo List App - Swift</b>
+  - [Todo List App](...)
 
-- <b>X Cookbook Webapp - HTML, CSS, JS</b>
+- <b>Cookbook Webapp - HTML, CSS, JS</b>
   - [Cookboook Site](https://github.com/logancamp/cookbook-site)
  
 - <b>Financial Portfolio Android App - Kotlin</b>
