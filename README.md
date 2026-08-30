@@ -2,7 +2,7 @@
 <p>Baldwin Wallace University | Bachelors of Science in CS and Financial Economics, Magna Cum Lade</p>
 <p>Case Western Reserve University | Masters of Science in CS in Artificial Intelligence</p>
 <h2></h2>
-<p>Note that some projects are labeled "Public Archive", these projects are near full-stack software engineering projects that are no longer deployed and are no longer being edited. These projects are listed as they were useful learning experiences for me and showcase my knowledge and progress over the last few years. </p>
+<p>Note that some projects are labeled "Public Archive", these projects are near full-stack software engineering projects that are no longer deployed and are no longer being edited. These projects are listed as they were useful learning experiences for me and showcase my knowledge and progress over the last few years. </p> <br>
 
 <h2>🤖 Intelligent Systems Projects:</h2>
 
