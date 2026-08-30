@@ -32,6 +32,9 @@
  
 - <b>End to End Encrypted Messenger - Java Spring</b>
   - [Messanger](https://github.com/logancamp/encrypted-messanger)
+ 
+- <b>Spotify Playlist Recommendation DE Pipeline - Python</b>
+  - [Spotify Rec](https://github.com/logancamp/spotify-recommendation-system)
 
 - <b>Cookbook Webapp - HTML, CSS, JS</b>
   - [Cookboook Site](https://github.com/logancamp/cookbook-site)
@@ -39,8 +42,8 @@
 - <b>Financial Portfolio Android App - Kotlin</b>
   - [Portfolio App](https://github.com/logancamp/CSC330_PortfolioAnalysisApp)
 
-- <b>Spotify Playlist Recommendation DE Pipeline - Python</b>
-  - [Spotify Rec](https://github.com/logancamp/spotify-recommendation-system)
+- <b>Rust Spreadsheet Backend - Rust</b>
+  - [Spreasheet](https://github.com/logancamp/rust-spreadsheet)
 
 <br>
 <h2>👾 Game Development Projects:</h2>
