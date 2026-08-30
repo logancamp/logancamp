@@ -19,6 +19,9 @@
 
 - <b>AI Mario RL Agent, Algoirithm Comparison - Python</b>
   - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
+ 
+- <b>Video Clustering - Python</b>
+  - [Clustering](https://github.com/logancamp/Video-Clustering)
 
 - <b>Attacker Model for Query Injection (kmeans + nn) - Python</b>
   - [Attacker](https://github.com/logancamp/query-injection-attacker)
@@ -26,11 +29,8 @@
 
 <br>
 <h2>👨‍💻 Software/Data Engineering Projects:</h2>
-
-- <b>Todo List App - Swift</b>
-  - [Todo List App](...)
  
-- <b>End to End Encrypted Messanger - Java Spring</b>
+- <b>End to End Encrypted Messenger - Java Spring</b>
   - [Messanger](https://github.com/logancamp/encrypted-messanger)
 
 - <b>Cookbook Webapp - HTML, CSS, JS</b>
@@ -39,7 +39,7 @@
 - <b>Financial Portfolio Android App - Kotlin</b>
   - [Portfolio App](https://github.com/logancamp/CSC330_PortfolioAnalysisApp)
 
-- <b>Spofiy Playlist Recomendation DE Pipeline - Python</b>
+- <b>Spotify Playlist Recommendation DE Pipeline - Python</b>
   - [Spotify Rec](https://github.com/logancamp/spotify-recommendation-system)
 
 <br>
@@ -48,25 +48,11 @@
 - <b>Smart Villager Minecraft Mod - Kotlin</b>
   - [SmartVillager](https://github.com/logancamp/smart_villagers_minecraft-mod)
 
-- <b>Super Python Mario - Python Arcade</b>
-  - [Mario](https://github.com/logancamp/SuperPythonMario/tree/main)
-
 <br>
 <h2>💻 Other Projects:</h2>
- 
-- <b>Video Clustering - Python</b>
-  - [Clustering](https://github.com/logancamp/Video-Clustering)
 
 - <b>Markdown to HTML Parser - Kotlin</b>
   - [Kotlin Markdown Parser](https://github.com/logancamp/MarkdownToHTMLLab)
-  
-- <b>Simulated CPU - Python</b>
-  - [CPU](https://github.com/logancamp/SimulatedCPU)
-
-- <b>Algorithm Demos - Python/Java</b>
-  - [Algorithms](https://github.com/logancamp/Algorithm-Demos)
-  - [Sorts](https://github.com/logancamp/SortsDemonstration)
-  - [PyTorch](https://github.com/logancamp/PyTorch-Notes)
 
 <br>
 
