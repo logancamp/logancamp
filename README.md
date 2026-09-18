@@ -27,7 +27,10 @@
 
 <br>
 <h2>👨‍💻 Software/Data Engineering Projects:</h2>
- 
+
+- <b>Todo - Swift</b>
+  - [Todo](https://github.com/logancamp/todo)
+  
 - <b>End to End Encrypted Messenger - Java Spring</b>
   - [Messanger](https://github.com/logancamp/encrypted-messanger)
  
