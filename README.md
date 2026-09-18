@@ -55,6 +55,9 @@
 <br>
 <h2>💻 Other Projects:</h2>
 
+- <b>API Key Scrubber - Bash Wrapper</b>
+  - [API Scrubber](https://github.com/logancamp/API-Key-Git-Scrubber)
+ 
 - <b>Markdown to HTML Parser - Kotlin</b>
   - [Kotlin Markdown Parser](https://github.com/logancamp/MarkdownToHTMLLab)
 
