@@ -21,9 +21,6 @@
 - <b>AI Mario RL Agent, Algoirithm Comparison - Python</b>
   - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
 
-- <b>Attacker Model for Query Injection (kmeans + nn) - Python</b>
-  - [Attacker](https://github.com/logancamp/query-injection-attacker)
-  - [Full Project](https://github.com/KhanhKhuat1504/csds356project)
 
 <br>
 <h2>👨‍💻 Software/Data Engineering Projects:</h2>
@@ -63,6 +60,10 @@
  
 - <b>Markdown to HTML Parser - Kotlin</b>
   - [Kotlin Markdown Parser](https://github.com/logancamp/MarkdownToHTMLLab)
+ 
+- <b>Attacker Model for Query Injection (kmeans + nn) - Python</b>
+  - [Attacker](https://github.com/logancamp/query-injection-attacker)
+  - [Full Project](https://github.com/KhanhKhuat1504/csds356project)
 
 <br>
 
