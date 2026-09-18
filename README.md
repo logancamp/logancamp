@@ -20,9 +20,6 @@
 
 - <b>AI Mario RL Agent, Algoirithm Comparison - Python</b>
   - [Mario Agent](https://github.com/logancamp/AIMarioAgent)
- 
-- <b>Video Clustering - Python</b>
-  - [Clustering](https://github.com/logancamp/Video-Clustering)
 
 - <b>Attacker Model for Query Injection (kmeans + nn) - Python</b>
   - [Attacker](https://github.com/logancamp/query-injection-attacker)
