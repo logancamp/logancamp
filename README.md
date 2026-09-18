@@ -28,6 +28,9 @@
 <br>
 <h2>👨‍💻 Software/Data Engineering Projects:</h2>
 
+- <b>AI Powered DB System - Java Spring + Web Front-end</b>
+  - [DB System](https://github.com/logancamp/personal-db-system)
+ 
 - <b>Todo - Swift</b>
   - [Todo](https://github.com/logancamp/todo)
   
